@@ -1,17 +1,25 @@
-# Task 2: Data Visualization and Storytelling
+# Task 2: Creating Visuals using Power BI
 
-## 🧠 Objective
-Create visualizations that convey a compelling story using sales data.
+## 👩‍💻 Intern: Rithika V  
+
+## 🎯 Objective
+To create a visual report using Power BI that tells a compelling story from sales data.
+
+## 📊 Dashboard Summary
+- **Line Chart** – Sales trend over time
+- **Bar Chart** – Category-wise sales comparison
+- **Donut Chart** – Sales share by category
+- **Combo Chart** – Order volume vs. profit per category
+- **Filters** – By category, sales, orders, and profit
+
+## 📈 Insights
+- Sales peaked in March–April 2019.
+- All categories contribute equally in sales (~25%).
+- Some categories show high order volume but lower profits.
 
 ## 🛠 Tools Used
 - Power BI
-- Dataset: Superstore (or similar sales dataset)
-
-## 📊 Dashboard Highlights
-- **Line Chart** for sales trends over time
-- **Bar & Donut Charts** for category-wise sales analysis
-- **Combo Chart** comparing Order Volume vs Profit
-- **Interactive Filters** to drill down insights
+- Sales Dataset
 
 ## 🔍 Business Insights
 - Sales peaked in March 2019
